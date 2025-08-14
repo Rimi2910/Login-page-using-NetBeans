@@ -5,7 +5,7 @@
 This project is a **Login and Registration System** developed using **Java** in **Apache NetBeans IDE 26**.  
 It demonstrates user authentication, form validation, and session management.  
 ## 🛠 Technologies Used
-- **Java** (Core)
+- **Java** (Core+custom UI design)
 - **Apache NetBeans IDE 26**
 
   👩‍💻 Author
